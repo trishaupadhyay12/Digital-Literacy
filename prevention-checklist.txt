@@ -1,0 +1,12 @@
+PREVENTION CHECKLIST:
+
+Never approve unknown UPI requests
+Do not share OTP or PIN
+Use trusted apps only
+Enable two-factor authentication
+Check URLs before clicking
+Avoid public Wi-Fi for transactions
+Regularly update passwords
+Monitor bank transactions
+Report fraud at cybercrime.gov.in
+Call 1930 helpline immediately
