@@ -20,5 +20,8 @@ This project shows and explains digital literacy skills like online presence, co
 - HackerRank
 - Google Forms
 
+## Google form link
+https://docs.google.com/forms/d/e/1FAIpQLSd3dA8FE9YtfC3stAx4pM5cFkv4RoN4tXKEannFt1B1ylRisQ/viewform?usp=dialog
+
 ## Author
 Trisha Upadhyay
